@@ -1,3 +1,27 @@
+## Evidence Retrieval for Fact Verification - CS60092 - Group 14
+
+## There are three modules in this IR System:
+
+## How to use the Fact Verification module?
+* Document Retrieval
+* Sentence Retrieval
+* Fact Verification
+
+### How to run the Fact Verification?
+This module deals with the classification of every claim-evidences pair into either SUPPORTS, REFUTES, or NOT ENOUGH INFO. For this, we use some pretrained model. In our case, we use the "roberta-large-mnli" model from Hugging Face model hub. 
+
+Link to RoBERTa model: https://huggingface.co/roberta-large-mnli
+
+*** How to
+
+
+
+
+
+
+
+
+
 # ir_project
 
 IR Term Project:
