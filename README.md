@@ -44,9 +44,7 @@ Link to output.csv: https://drive.google.com/file/d/1fm6SDn0TQckZqLFs7ctNODOZNPL
 
 This code will produce the pretrained model with the name "fine-tuned-roberta-large-mnli", which can be used for testing using "fact_verification.ipynb".
 
-[^1]:
-Doc:
-https://docs.google.com/document/d/1mvwsRPd_NZugBg_8tYV7hp0zmOyTJtgxqNKWOjmOZxU/edit
+---
 
 Slides:
 https://docs.google.com/presentation/d/1skxHsoJ_qZ5_EJStu0oVrV6pQ1yVYjRK/edit#slide=id.g21cf28aefd8_2_12
