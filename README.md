@@ -9,6 +9,7 @@
 In the base directory, make a new folder "fever" and upload the train.jsonl, test.jsonl, dev.jsonl and fever.db in that folder. Now just run the DOC_SENT_RETRIEVAL_FINAL.ipynb file.
 
 Link to finetuned BERT model for evidence retrieval: https://drive.google.com/file/d/1r_oaK5jwOC0t-PkBEMwpDBIlY7PKBjI7/view?usp=share_link
+
 Input format two sentences(claim,evidence) and get the probability of relevance. 
 
 ### How to use the Fact Verification module?
