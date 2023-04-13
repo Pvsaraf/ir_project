@@ -5,6 +5,12 @@
 * Sentence Retrieval
 * Fact Verification
 
+### How to run the Document Retrieval and Sentence Retrieval?
+In the base directory, make a new folder "fever" and upload the train.jsonl, test.jsonl, dev.jsonl and fever.db in that folder. Now just run the DOC_SENT_RETRIEVAL_FINAL.ipynb file.
+
+Link to finetuned BERT model for evidence retrieval: https://drive.google.com/file/d/1r_oaK5jwOC0t-PkBEMwpDBIlY7PKBjI7/view?usp=share_link
+Input format two sentences(claim,evidence) and get the probability of relevance. 
+
 ### How to use the Fact Verification module?
 This module deals with the classification of every claim-evidences pair into either SUPPORTS, REFUTES, or NOT ENOUGH INFO. For this, we use some pretrained model. In our case, we use the "roberta-large-mnli" model from Hugging Face model hub. 
 
