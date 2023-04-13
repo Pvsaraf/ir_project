@@ -6,7 +6,7 @@
 * Fact Verification
 
 ### How to run the Document Retrieval and Sentence Retrieval?
-In the base directory, make a new folder "fever" and upload the train.jsonl, test.jsonl, dev.jsonl and fever.db in that folder. Now just run the DOC_SENT_RETRIEVAL_FINAL.ipynb file.
+In the base directory, make a new folder "fever" and upload the train.jsonl, test.jsonl, dev.jsonl and fever.db in that folder. Now just run the DOC_SENT_RETRIEVAL_FINAL.ipynb file. Link to train.jsonl is given below.
 
 Link to finetuned BERT model for evidence retrieval: https://drive.google.com/file/d/1r_oaK5jwOC0t-PkBEMwpDBIlY7PKBjI7/view?usp=share_link
 
